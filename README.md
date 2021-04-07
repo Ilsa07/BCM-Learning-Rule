@@ -11,6 +11,7 @@ The following equation is used to update the synaptic weights of the neuron depe
 ![weight_update](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdw%7D%7Bdt%7D%3D%5Ceta%20x%20y%28y-%5Ctheta%29)
 
 ### Sliding Threshold
+The following equation is used to update the sliding threshold, where tau is the time constant, theta  is the threshold and y is the output of the neuron with y0 being the target response.This is computed online in the program.
 
 ![sliding_threshold](https://latex.codecogs.com/gif.latex?%5Ctau%20%5Cfrac%7Bd%20%5Ctheta%7D%7Bdt%7D%3D-%5Ctheta%20&plus;%20%5Cfrac%7By%28t%29%5E2%7D%7By_0%7D)
 
