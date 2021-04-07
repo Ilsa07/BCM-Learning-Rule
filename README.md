@@ -10,7 +10,7 @@
 
 ### Sliding Threshold
 
-
+![sliding_threshold](https://latex.codecogs.com/gif.latex?%5Ctau%20%5Cfrac%7Bd%20%5Ctheta%7D%7Bdt%7D%3D-%5Ctheta%20&plus;%20%5Cfrac%7By%28t%29%5E2%7D%7By_0%7D)
 
 ## Getting Started
 1. Clone the project and create a virtual environment
